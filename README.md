@@ -1,5 +1,8 @@
 # Embed Yourself
 
+![Demo](https://github.com/wynandhuizinga/Embed-yourself/blob/main/00001-3907234973.png)
+Regional prompt combining famous Einstein with the lesser famous Wynand Huizinga
+
 ## Stable diffusion and its limitations
 With stable diffusion, you can generate fancy images by prompting for whatever you'd like to see. However, you're limited to generating images which are inspired on the original training set of the stable diffusion base model. For instance: The base model definitely didn't get trained on people which are not famous (myself for example). 
 
@@ -14,3 +17,9 @@ Although this is all fun and interesting, one should take into consideration wha
 
 ## Acknowledgement 
 Thanks to all the people working hard on SD1.5 and A1111 (automatic 11 11) to enable a fairly easy and accessible workflow. 
+
+## Bonus 
+A few more examples for the heck of it.
+
+![1](https://github.com/wynandhuizinga/Embed-yourself/blob/main/00018-Lascivious_v4_%5Bnumber%5D_2740682953.png) ![2](https://github.com/wynandhuizinga/Embed-yourself/blob/main/00408-Lascivious_v4_%5Bnumber%5D_3180833198.png) 
+![3 - enlarged](https://github.com/wynandhuizinga/Embed-yourself/blob/main/00303-Lascivious_v4_%5Bnumber%5D_851092331.png)
